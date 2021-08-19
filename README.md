@@ -1,5 +1,5 @@
 # meals
-this is projectabout delicious food recipes
+this is project about delicious food recipes
  
 
 
